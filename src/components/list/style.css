@@ -1,0 +1,10 @@
+.list-container {
+  padding: 0 24px;
+  background-color: #ecfbfb;
+}
+
+.list-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
